@@ -1,10 +1,11 @@
+import Accordion from "./Components/Accordion";
 
 
 function App() {
   return (
-    <div>
-      <p>Hello world</p>
-    </div>
+    <>
+    <Accordion/>
+    </>
   );
 }
 
