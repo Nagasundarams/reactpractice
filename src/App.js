@@ -1,10 +1,12 @@
 import Accordion from "./Components/Accordion";
+import RandomColor from "./Components/Randomcolor";
 
 
 function App() {
   return (
     <>
-    <Accordion/>
+    {/* <Accordion/> */}
+    <RandomColor/>
     </>
   );
 }
